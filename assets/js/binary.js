@@ -1,5 +1,5 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v4.1.27/---simulator","cdnUrl":"https://cdn.makecode.com","version":"1.0.0","target":"arcade","targetVersion":"4.1.27","repo":"tmittib/tmittib-textures"}
-// total=1714229 new=2.78% cached=67.66% other=29.56%
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v4.1.27/---simulator","cdnUrl":"https://cdn.makecode.com","version":"1.1.0","target":"arcade","targetVersion":"4.1.27","repo":"tmittib/tmittib-textures"}
+// total=1729487 new=3.08% cached=67.14% other=29.78%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -45,12 +45,26 @@ const _hex80303 = pxsim.BufferMethods.createBufferFromHex("870420002000000000000
 const _hex80305 = pxsim.BufferMethods.createBufferFromHex("870420002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000cc00000000000000b0bbbbbbbbcb00c0cd000000000000001bddddddddbd0c1ccd000000000000b011cbccccccbc0c1ccd000000000000b01d6c666666bc0cbccd000000000000b01d6c616661bc0c1ccd000000000000b01d6c161666bccc1bcd000000000000b01d6c666166bcccbbcd000000000000b01d6c666666bccc1bcd000000000000b01d6c666661bccc1bcd000000000000b01d6c666661bcccbbcd000000000000b01d6c666661bccc1bcd000000000000b01d6c666666bc0c1ccd000000000000b01dcbccccccbc0cbccd000000000000c0b1bbbbbbbbbb0cdccb000000000000c0bbbbbbbbbbcb00dc0c00000000000000cccccccccc0c00cc000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 const _hex80307 = pxsim.BufferMethods.createBufferFromHex("87042000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004004000000000000000000000000000054450000000000000000000000440b00bbbb00b0440000000000000040550b00000000b0550400000000000040b5000044bb00005b04000000000000b00b0044ddddbb00b00b0000000000000000405d55d5dd0b00000000000000000000d4555555ddbd0000000000000000000054555555d5bd0000000000000000b44055555555d5dd0b4b000000000040b54055555555d5dd0b5b040000000040b54055555555d5dd0b5b040000000000b44055115555d5dd0b4b000000000000000054115555d5bd00000000000000000000d4555555ddbd00000000000000000000405d55d5dd0b0000000000000000b00b0044ddddbb00b00b00000000000040b5000044bb00005b0400000000000040550b00000000b0550400000000000000440b00bbbb00b0440000000000000000000000544500000000000000000000000000004004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 const _hex80309 = pxsim.BufferMethods.createBufferFromHex("870420002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000bbbb00000000000000000000000000b055bb00bbbbbb000000000000000000b0b5bdbcbbbbddcb0000000000000000b0dbcb5b5555bbdd0c00000000000000b0cbdcbdbb5b55dbcd0000000000000000c0dddb11d15bb5bd0c00000000000000bbbd111111b155bb0c00000000000000db1b111111115bb5cb00000000000000db1bb11d1199b9d5cb00000000000000db1b11bb9199b955cb000000000000005b1b11b19b99995bcb000000000000005b1d1111bb99995ccb00000000000000b0b511bbbb99995ccb00000000000000b0d51d919999d95b0b00000000000000005bdb919999c9d50b0000000000000000b0d51b99d9bcb5000000000000000000005bd5bbbc550b00000000000000000000b05b5555bd000000000000000000000000b0bbbb00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
-const _hex82126 = pxsim.BufferMethods.createBufferFromHex("87041000100000000000000000000000e0eeeeeeeeeeee0eeeeeeeeeeeeeeeee44eeeeeeeeeeeeee4e444444ee4e4444eeeeee4e4444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee44eeeeeeeeeeeeee4e4444e4ee4e4444eeeeee444444eeeeeeeeeeeeeeeeeeeee0eeeeeeeeeeee0e000000000000000000000000000000000000000000000000")
-const _hex82128 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cc9f99f8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
-const _hex82130 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cccf99f8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
-const _hex82132 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cccf9cf8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
-const _hex82134 = pxsim.BufferMethods.createBufferFromHex("870410001000000055555555555555554544444444444444458888888888884845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8ccfcffffcc4845c8cccfccfccc4845c8ccfcffffcc4845c8cccccccccc4845c8222ccccccc4845c8cccccccccc48458888888888884845444444444444445555555555555555")
-const _hex82136 = pxsim.BufferMethods.createBufferFromHex("870410001000000055555555555555554544444444444444458888888888884845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8ccfcffffcc4845c8cccfccf9cc4845c8ccfcffffcc4845c8cccccccccc4845c8222ccccccc4845c8cccccccccc48458888888888884845444444444444445555555555555555")
+const _hex80762 = pxsim.BufferMethods.createBufferFromHex("870410001000000077777777777777777767766776d67666777766dd6ddd6ddd77d6dddddddddddd67dddddddddddddb77d6dddddddddddd77d6ddbddbdddddd67d6ddbddbdddddd67dddddddddddddd67dddddddddddddd77d6dddddd1dd1dd67ddddddd11dd1dd77d6dddddddddddd77dddbdddddddddd67d7ddddddd1dddd77d6dddddddddddb")
+const _hex80764 = pxsim.BufferMethods.createBufferFromHex("870410001000000067dddddddddddddd67dd1dd1dddddddd77d61dd1ddbddddd67d7dddddddddddd77d71ddddddddddd67d6dddddddddddd7767ddddbddddddd67ddddddddddddd167ddddddddddddddd7dddddddddddddd67d71ddddddddddd77d6ddddddbddbdd77ddddddddbddbdd67d6dddddddddddd7767dddd1ddddd1d77d6dddddddddddd")
+const _hex80766 = pxsim.BufferMethods.createBufferFromHex("8704100010000000d7ddddd1dddddddd67dddddddddddddd77d6dddddddddddd67d6ddddbddbdddd67dddbddbddbdddd77dddddddddddddb77d6dddddddddddd77d6dddddddddddd67d6ddd1ddddddddd7dddddddbdddddd67dd11ddddddd1dd77d611dddddddddd67ddddddd6dddddd77d66ddd67dd66dd776776667766676d7777777777777777")
+const _hex80770 = pxsim.BufferMethods.createBufferFromHex("870410001000000077777777777777776767776776d67676666766dd6ddd6dd6ddd6d6ddddbdddd6dddddddddddddddddddddddddddddddd11dddddddddddddd11ddbddddddddddddddddddddd1ddddbdddddddddd11d1ddddd1dddddd1dddddddddddddddddddddddddddddbbddddddddddddddbbddddddddddddddddddddddddddddd1dddddd1d")
+const _hex80772 = pxsim.BufferMethods.createBufferFromHex("8704100010000000dddddddddd1dd1dddddddddddd1dd1dddddddbdddddddddd1dd1dddddddddddd1dd1dddddddddddddddddddddbdddddddddddddddddd1dddddddddddddddddddddddddddddddddddddddbbddddddddddddddbbdddddddddddddddddddddddddddddddddddddddbddbdddddddddddddddddddddddddddddbddddddddddddddddd")
+const _hex80774 = pxsim.BufferMethods.createBufferFromHex("8704100010000000ddddddddd1dddddddd1ddddddddddddddd11d1ddddddddd1dd1dddddddddddddddddddddbddbddddddddddddbddbddddddddddddddddddddddddddddddddddddddbddddddddddddddddddddddddddddddddddddddddddbddddddddd1dddddddddddddddd6dddddddddd6dd667dd66dd666676d6776766d677777777777777777")
+const _hex80778 = pxsim.BufferMethods.createBufferFromHex("87041000100000007777777777777777d676667766677677dd66dd76ddd66d77dddddd6ddddddd76ddddddddbddb6d77ddddddddbddbdd76dd1ddddddddddd7ddddddddddddd6d76dddddddddddd6d77dddddddddddd6d77dd11dddddddddd77dd11dddddbdddd76dddddddddddd6d76dddddddddd116d77dddddddddd11dd76dddddddbdddddd7d")
+const _hex80780 = pxsim.BufferMethods.createBufferFromHex("8704100010000000dddddddddddd6d77d1ddddd1dddd7677dddddddddddd6d76dddddddddddbdd77dddddddddddd6d77ddddddbbdddd7d76dddbddbbdddddd7ddddddddddddddd76dddddddddddddd76dddddddddddd7677dddddddddddd6d76ddddddddddd17d77dd11dddddddd7d76dd11dddddddd6d77ddddddbddddddd76dddddddddddddd76")
+const _hex80782 = pxsim.BufferMethods.createBufferFromHex("8704100010000000bddddddddddd6d77dddddd1dd1dd7d76dddddd1dd1bddd77dddddddddddd6d77dddddddddddddd76ddd1dddddddd6d77dddddddddddddd76ddddddddd1dddd76dddddddddddd6d76ddddbbdddddd6d77ddddbbdddddd6d77dddddddddd1ddd76dddddddddddd6d77ddd6ddd6dd66777766676d67766776777777777777777777")
+const _hex93915 = pxsim.BufferMethods.createBufferFromHex("87041000100000005555555555555555555555555555555555555555555555555544444455555555454444445555555545545555555555554554555555554454455455554454445445545555445444544544444444555555554444444455555555555555555555555555555555555555555555555555555555555555555555555555555555555555")
+const _hex93920 = pxsim.BufferMethods.createBufferFromHex("87041000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
+const _hex93879 = pxsim.BufferMethods.createBufferFromHex("87041000100000000000000000000000e0eeeeeeeeeeee0eeeeeeeeeeeeeeeee44eeeeeeeeeeeeee4e444444ee4e4444eeeeee4e4444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee44eeeeeeeeeeeeee4e4444e4ee4e4444eeeeee444444eeeeeeeeeeeeeeeeeeeee0eeeeeeeeeeee0e000000000000000000000000000000000000000000000000")
+const _hex93881 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cc9f99f8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
+const _hex93883 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cccf99f8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
+const _hex93885 = pxsim.BufferMethods.createBufferFromHex("870410001000000088888888888888889899999999999999988888888888889898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc9898c8ccfcffffcc9898c8cccf9cf8cc9898c8ccfcffffcc9898c8cccccccccc9898c8cccccccccc9898c8cccccccccc98988888888888889898999999999999998888888888888888")
+const _hex93887 = pxsim.BufferMethods.createBufferFromHex("870410001000000055555555555555554544444444444444458888888888884845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8ccfcffffcc4845c8cccfccfccc4845c8ccfcffffcc4845c8cccccccccc4845c8222ccccccc4845c8cccccccccc48458888888888884845444444444444445555555555555555")
+const _hex93889 = pxsim.BufferMethods.createBufferFromHex("870410001000000055555555555555554544444444444444458888888888884845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8cccccccccc4845c8ccfcffffcc4845c8cccfccf9cc4845c8ccfcffffcc4845c8cccccccccc4845c8222ccccccc4845c8cccccccccc48458888888888884845444444444444445555555555555555")
+const _hex93905 = pxsim.BufferMethods.createBufferFromHex("000e0104080a0600001c00010a006400f401640000040000000000000000000000000005000004850004000800012210001400021b2018001c000119200024000120240028000220242c003000011d30003400011e34003800011b440048000220254c005000021b2554005800011b60006400012264006800012068006c0001256c007000012a70007400011d7c0080000122840088000224298c009000021e2a9400980001199c00a00002192705001c000f0a006400f4010a00000400000000000000000000000000000000027e0020002500012c2500290001312b002f0001333000350001363500390001383b003f00013d40004100013841005a0001bb60007700013880008100013881008c00013a90009b000136a000ab000133b000b8000131c000ca0001b4d000d30001b4d500d8000133db00de000131e000ea00012cf000fa00013300013001013106001c00010a006400f401640000040000000000000000000000000000000002b40000002e00042529312c300032000425292c3135003800042531292c3b003d00042531292c4000690004a82cafb47000730004a82cafb47500780004a8af2cb47b007d0004a82cb4af8000a900042a2e3631b000b300042a2e3136b500b800042a2e3136bb00be00042a2e3136c000d900042aadb431e000e2000425a8ad31e500e7000425a831adeb00ed00042531a8adf000f20004272aafb4f500f70004272ab4affb00fd000427b42aaf00012e01042529312c07001c00020a006400f401640000040000000000000000000000000000000003200100000500011905000b00011d0b001000012010001500012515001b0001201b002000011d20002500011925002b00011d2b003000012030003500012535003b0001203b004000011d40004500019745004b00019c4b00500001205000550001a355005b0001205b006000019c60006500019765006b00019c6b00700001207000750001a375007b0001207b008000019c80008500011985008b00011e8b009000012290009500012595009b0001229b00a000011ea000a5000119a500ab00011eab00b0000122b000b5000125b500bb000122bb00c000011ec000c5000119c500cb00011ecb00d00001a1d000d50001a8d500db0001a1db00e000011ee000e5000119e500eb00011eeb00f00001a1f000f5000125f500fb0001a3fb000001011e08001c000e050046006603320000040a002d00000064001400013200020100026d0000000b00020d9315001800010d1b001e00010d20003100010d4000530001905500580001905b005e0001906000710001908000930001129500980001129b009d000112a000b1000112c000d0000195d500d8000195db00dd000195e000ec000195f000f800019700013001011909010e02026400000403780000040a000301000000640001c80000040100000000640001640000040100000000fa0004af00000401c80000040a00019600000414000501006400140005010000002c0104dc00000401fa0000040a0001c8000004140005d0076400140005d0070000c800029001f40105c201f4010a0005900114001400039001000005c201f4010500058403050032000584030000fa00049001000005c201f4010500058403c80032000584030500640005840300009001049001000005c201f4010500058403c80064000584030500c8000584030000f40105ac0d000404a00f00000a0004ac0d2003010004a00f0000280004ac0d9001010004a00f0000280002d00700040408070f0064000408070000c80003c800c8000e7d00c80019000e64000f0032000e78000000fa00032c01c8000ee100c80019000ec8000f0032000edc000000fa0003f401c8000ea901c80019000e90010f0032000ea4010000fa0001c8000004014b000000c800012c01000401c8000000c8000190010004012c010000c80002c800000404c8000f0064000496000000c80002c2010004045e010f006400042c010000640002c409000404c4096400960004f6090000f40102b80b000404b80b64002c0104f40b0000f401022003000004200300040a000420030000ea01029001000004900100040a000490010000900102d007000410d0076400960010d0070000c800770000000e00020307150017000203071b001d0002030720002f0002030740005100020307550058000203075b005d0002030760006e0002030780008f00020307950098000203079b009d00020307a000ad00020307c000cf00020307d500d700020307db00dd00020307e000ee0002030700011e01020308057f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f063e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e074444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444440856565656565656565656565656565656565609537f7f7f7f7f7f7f7f7f7f7f7f7f7f7f7f")
+const _hex93932 = pxsim.BufferMethods.createBufferFromHex("10001000030a0a0a0a0a0a0a0a0a0a0a0a0a0a04070202020202020202020202020202090702020202020202020202020202020907020102020102020202020202020209070202020202020202020202010202090702020202020202020202020202020907020202020202020202020202020209070202020202020202020202020202090702020202020202010202020202020907020202020202020202020202020209070202020202020202020202020202090702020102020202020202010202020907020202020202020202020202020209070202020202020202020202020202090702020202020202020202020201020905080808080808080808080808080806")
+const _hex93934 = pxsim.BufferMethods.createBufferFromHex("87041000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 const _hex89030 = pxsim.BufferMethods.createBufferFromHex("87040100010000000f000000")
 const _hex89032 = pxsim.BufferMethods.createBufferFromHex("8704010002000000ff000000")
 const _hex89034 = pxsim.BufferMethods.createBufferFromHex("87040200010000000f0000000f000000")
@@ -472,7 +486,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P93846(s) {
+function _main___P94004(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -862,6 +876,24 @@ switch (step) {
   case 34:
     r0 = s.retval;
     globals.melt___78447 = (s.tmp_0);
+    r0 = pxsim.image.ofBuffer(_hex80762);
+    globals.tilePath1___78820 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80764);
+    globals.tilePath2___78821 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80766);
+    globals.tilePath3___78822 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80770);
+    globals.tilePath4___78824 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80772);
+    globals.tilePath5___78825 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80774);
+    globals.tilePath6___78826 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80778);
+    globals.tilePath7___78828 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80780);
+    globals.tilePath8___78829 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex80782);
+    globals.tilePath9___78830 = (r0);
     s.tmp_0 = game_setWaitAnyButton__P78153_mk(s);
     s.tmp_0.arg0 = controller_pauseUntilAnyButtonIsPressed__P77312;
     s.callLocIdx = 61; s.pc = 35; return s.tmp_0;
@@ -873,39 +905,55 @@ switch (step) {
     r0 = s.retval;
     s.tmp_0 = helpers__registerFactory__P78484_mk(s);
     s.tmp_0.arg0 = "image";
-    s.tmp_0.arg1 = myImages_inline__P82120;
+    s.tmp_0.arg1 = myImages_inline__P93873;
     s.callLocIdx = 64; s.pc = 37; return s.tmp_0;
   case 37:
     r0 = s.retval;
     s.tmp_0 = helpers__registerFactory__P78484_mk(s);
     s.tmp_0.arg0 = "animation";
-    s.tmp_0.arg1 = myImages_inline__P82139;
+    s.tmp_0.arg1 = myImages_inline__P93892;
     s.callLocIdx = 66; s.pc = 38; return s.tmp_0;
   case 38:
     r0 = s.retval;
     s.tmp_0 = helpers__registerFactory__P78484_mk(s);
     s.tmp_0.arg0 = "song";
-    s.tmp_0.arg1 = myImages_inline__P82146;
+    s.tmp_0.arg1 = myImages_inline__P93899;
     s.callLocIdx = 68; s.pc = 39; return s.tmp_0;
   case 39:
     r0 = s.retval;
     s.tmp_0 = helpers__registerFactory__P78484_mk(s);
     s.tmp_0.arg0 = "json";
-    s.tmp_0.arg1 = myImages_inline__P82153;
+    s.tmp_0.arg1 = myImages_inline__P93908;
     s.callLocIdx = 70; s.pc = 40; return s.tmp_0;
   case 40:
+    r0 = s.retval;
+    r0 = pxsim.image.ofBuffer(_hex93915);
+    globals.tile1___93916 = (r0);
+    r0 = pxsim.image.ofBuffer(_hex93920);
+    globals.transparency16___93921 = (r0);
+    s.tmp_0 = helpers__registerFactory__P78484_mk(s);
+    s.tmp_0.arg0 = "tilemap";
+    s.tmp_0.arg1 = myTiles_inline__P93925;
+    s.callLocIdx = 73; s.pc = 41; return s.tmp_0;
+  case 41:
+    r0 = s.retval;
+    s.tmp_0 = helpers__registerFactory__P78484_mk(s);
+    s.tmp_0.arg0 = "tile";
+    s.tmp_0.arg1 = myTiles_inline__P93950;
+    s.callLocIdx = 75; s.pc = 42; return s.tmp_0;
+  case 42:
     r0 = s.retval;
     r0 = undefined;
     return leave(s, r0)
   default: oops()
 } } }
-_main___P93846.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P93846.continuations = [  ]
+_main___P94004.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P94004.continuations = [  ]
 
-function _main___P93846_mk(s) {
+function _main___P94004_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P93846, depth: s.depth + 1,
+        parent: s, fn: _main___P94004, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -1417,7 +1465,7 @@ function gameOverConfig_inline__P80124_mk(s) {
 
 
 
-function myImages_inline__P82120(s) {
+function myImages_inline__P93873(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1465,27 +1513,27 @@ switch (step) {
     { step = 13; continue; }
   case 1:
   case 2:
-    r0 = pxsim.image.ofBuffer(_hex82126);
+    r0 = pxsim.image.ofBuffer(_hex93879);
     { step = 14; continue; }
   case 3:
   case 4:
-    r0 = pxsim.image.ofBuffer(_hex82128);
+    r0 = pxsim.image.ofBuffer(_hex93881);
     { step = 14; continue; }
   case 5:
   case 6:
-    r0 = pxsim.image.ofBuffer(_hex82130);
+    r0 = pxsim.image.ofBuffer(_hex93883);
     { step = 14; continue; }
   case 7:
   case 8:
-    r0 = pxsim.image.ofBuffer(_hex82132);
+    r0 = pxsim.image.ofBuffer(_hex93885);
     { step = 14; continue; }
   case 9:
   case 10:
-    r0 = pxsim.image.ofBuffer(_hex82134);
+    r0 = pxsim.image.ofBuffer(_hex93887);
     { step = 14; continue; }
   case 11:
   case 12:
-    r0 = pxsim.image.ofBuffer(_hex82136);
+    r0 = pxsim.image.ofBuffer(_hex93889);
     { step = 14; continue; }
   case 13:
     r0 = null;
@@ -1493,12 +1541,12 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-myImages_inline__P82120.info = {"start":97,"length":3689,"line":3,"column":38,"endLine":121,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
+myImages_inline__P93873.info = {"start":97,"length":3689,"line":3,"column":38,"endLine":121,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
 
-function myImages_inline__P82120_mk(s) {
+function myImages_inline__P93873_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: myImages_inline__P82120, depth: s.depth + 1,
+        parent: s, fn: myImages_inline__P93873, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -1508,7 +1556,7 @@ function myImages_inline__P82120_mk(s) {
 
 
 
-function myImages_inline__P82139(s) {
+function myImages_inline__P93892(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1531,12 +1579,12 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-myImages_inline__P82139.info = {"start":3831,"length":105,"line":123,"column":42,"endLine":128,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
+myImages_inline__P93892.info = {"start":3831,"length":105,"line":123,"column":42,"endLine":128,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
 
-function myImages_inline__P82139_mk(s) {
+function myImages_inline__P93892_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: myImages_inline__P82139, depth: s.depth + 1,
+        parent: s, fn: myImages_inline__P93892, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   arg0: undefined,
@@ -1545,7 +1593,7 @@ function myImages_inline__P82139_mk(s) {
 
 
 
-function myImages_inline__P82146(s) {
+function myImages_inline__P93899(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1559,30 +1607,44 @@ switch (step) {
       s.arg0 = (s.lambdaArgs[0]);
       s.lambdaArgs = null;
     }
-    s.tmp_0 = helpers_stringTrim__P75208_mk(s);
-    s.tmp_0.arg0 = s.arg0;
-    s.callLocIdx = 67; s.pc = 1; return s.tmp_0;
-  case 1:
+    s.tmp_1 = helpers_stringTrim__P75208_mk(s);
+    s.tmp_1.arg0 = s.arg0;
+    s.callLocIdx = 67; s.pc = 5; return s.tmp_1;
+  case 5:
     r0 = s.retval;
+    s.tmp_0 = r0;
+    r0 = pxsim_pxtcore.switch_eq("song1", s.tmp_0);
+    if (r0) { step = 1; continue; }
+    r0 = pxsim_pxtcore.switch_eq("note blaster", s.tmp_0);
+    if (r0) { step = 2; continue; }
+    r0 = s.tmp_0;
+    { step = 3; continue; }
+  case 1:
+  case 2:
+    r0 = _hex93905;
+    { step = 4; continue; }
+  case 3:
     r0 = null;
+  case 4:
     return leave(s, r0)
   default: oops()
 } } }
-myImages_inline__P82146.info = {"start":3976,"length":105,"line":130,"column":37,"endLine":135,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
+myImages_inline__P93899.info = {"start":3976,"length":3762,"line":130,"column":37,"endLine":136,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
 
-function myImages_inline__P82146_mk(s) {
+function myImages_inline__P93899_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: myImages_inline__P82146, depth: s.depth + 1,
+        parent: s, fn: myImages_inline__P93899, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
+  tmp_1: undefined,
   arg0: undefined,
 } }
 
 
 
 
-function myImages_inline__P82153(s) {
+function myImages_inline__P93908(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1605,14 +1667,330 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-myImages_inline__P82153.info = {"start":4121,"length":105,"line":137,"column":37,"endLine":142,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
+myImages_inline__P93908.info = {"start":7778,"length":105,"line":138,"column":37,"endLine":143,"endColumn":5,"fileName":"images.g.ts","functionName":"inline","argumentNames":["name"]}
 
-function myImages_inline__P82153_mk(s) {
+function myImages_inline__P93908_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: myImages_inline__P82153, depth: s.depth + 1,
+        parent: s, fn: myImages_inline__P93908, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
+  arg0: undefined,
+} }
+
+
+
+
+function myTiles_inline__P93925(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.lambdaArgs = null;
+    }
+    s.tmp_1 = helpers_stringTrim__P75208_mk(s);
+    s.tmp_1.arg0 = s.arg0;
+    s.callLocIdx = 71; s.pc = 5; return s.tmp_1;
+  case 5:
+    r0 = s.retval;
+    s.tmp_0 = r0;
+    r0 = pxsim_pxtcore.switch_eq("level", s.tmp_0);
+    if (r0) { step = 1; continue; }
+    r0 = pxsim_pxtcore.switch_eq("level1", s.tmp_0);
+    if (r0) { step = 2; continue; }
+    r0 = s.tmp_0;
+    { step = 3; continue; }
+  case 1:
+  case 2:
+    r0 = pxsim_Array__mk();
+    s.tmp_2 = r0;
+    r0 = pxsim_Array__push(s.tmp_2, globals.transparency16___93921);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tile1___93916);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath5___78825);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath1___78820);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath3___78822);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath7___78828);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath9___78830);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath4___78824);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath8___78829);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath6___78826);
+    r0 = pxsim_Array__push(s.tmp_2, globals.tilePath2___78821);
+    s.tmp_3 = tiles_createTilemap__P77898_mk(s);
+    s.tmp_3.arg0 = _hex93932;
+    r0 = pxsim.image.ofBuffer(_hex93934);
+    s.tmp_3.arg1 = r0;
+    s.tmp_3.arg2 = s.tmp_2;
+    s.tmp_3.arg3 = 4;
+    s.callLocIdx = 72; s.pc = 6; return s.tmp_3;
+  case 6:
+    r0 = s.retval;
+    { step = 4; continue; }
+  case 3:
+    r0 = null;
+  case 4:
+    return leave(s, r0)
+  default: oops()
+} } }
+myTiles_inline__P93925.info = {"start":311,"length":1531,"line":7,"column":40,"endLine":30,"endColumn":5,"fileName":"tilemap.g.ts","functionName":"inline","argumentNames":["name"]}
+
+function myTiles_inline__P93925_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: myTiles_inline__P93925, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
+  tmp_0: undefined,
+  tmp_1: undefined,
+  tmp_2: undefined,
+  tmp_3: undefined,
+  arg0: undefined,
+} }
+
+
+
+
+function myTiles_inline__P93950(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.lambdaArgs = null;
+    }
+    s.tmp_1 = helpers_stringTrim__P75208_mk(s);
+    s.tmp_1.arg0 = s.arg0;
+    s.callLocIdx = 74; s.pc = 6; return s.tmp_1;
+  case 6:
+    r0 = s.retval;
+    s.tmp_0 = r0;
+    r0 = pxsim_pxtcore.switch_eq("myTile", s.tmp_0);
+    if (r0) { step = 1; continue; }
+    r0 = pxsim_pxtcore.switch_eq("tile1", s.tmp_0);
+    if (r0) { step = 2; continue; }
+    r0 = pxsim_pxtcore.switch_eq("transparency16", s.tmp_0);
+    if (r0) { step = 3; continue; }
+    r0 = s.tmp_0;
+    { step = 4; continue; }
+  case 1:
+  case 2:
+    r0 = globals.tile1___93916;
+    { step = 5; continue; }
+  case 3:
+    r0 = globals.transparency16___93921;
+    { step = 5; continue; }
+  case 4:
+    r0 = null;
+  case 5:
+    return leave(s, r0)
+  default: oops()
+} } }
+myTiles_inline__P93950.info = {"start":1882,"length":227,"line":32,"column":37,"endLine":39,"endColumn":5,"fileName":"tilemap.g.ts","functionName":"inline","argumentNames":["name"]}
+
+function myTiles_inline__P93950_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: myTiles_inline__P93950, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
+  tmp_0: undefined,
+  tmp_1: undefined,
+  arg0: undefined,
+} }
+
+
+
+
+function tiles_createTilemap__P77898(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.arg1 = (s.lambdaArgs[1]);
+      s.arg2 = (s.lambdaArgs[2]);
+      s.arg3 = (s.lambdaArgs[3]);
+      s.lambdaArgs = null;
+    }
+    r0 = pxsim_pxtcore_mkClassInstance(tiles_TileMapData__C77853_VT);
+    s.tmp_0 = r0;
+    s.tmp_1 = tiles_TileMapData_constructor__P77854_mk(s);
+    s.tmp_1.arg0 = s.tmp_0;
+    s.tmp_1.arg1 = s.arg0;
+    s.tmp_1.arg2 = s.arg1;
+    s.tmp_1.arg3 = s.arg2;
+    s.tmp_1.arg4 = s.arg3;
+    s.callLocIdx = 36; s.pc = 1; return s.tmp_1;
+  case 1:
+    r0 = s.retval;
+    r0 = s.tmp_0;
+    return leave(s, r0)
+  default: oops()
+} } }
+tiles_createTilemap__P77898.info = {"start":19238,"length":170,"line":595,"column":4,"endLine":597,"endColumn":5,"fileName":"pxt_modules/game/tilemap.ts","functionName":"createTilemap","argumentNames":["data","layer","tiles","scale"]}
+
+function tiles_createTilemap__P77898_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: tiles_createTilemap__P77898, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
+  tmp_0: undefined,
+  tmp_1: undefined,
+  arg0: undefined,
+  arg1: undefined,
+  arg2: undefined,
+  arg3: undefined,
+} }
+
+
+
+
+function tiles_TileMapData_constructor__P77854(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.arg1 = (s.lambdaArgs[1]);
+      s.arg2 = (s.lambdaArgs[2]);
+      s.arg3 = (s.lambdaArgs[3]);
+      s.arg4 = (s.lambdaArgs[4]);
+      s.lambdaArgs = null;
+    }
+    r0 = s.arg0;
+    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
+    r0 = (s.arg0).fields["data"] = (s.arg1);
+    r0 = (s.arg0).fields["layers"] = (s.arg2);
+    r0 = (s.arg0).fields["tileset"] = (s.arg3);
+    s.tmp_0 = tiles_TileMapData_scale__P77858_mk(s);
+    s.tmp_0.arg0 = s.arg0;
+    s.tmp_0.arg1 = s.arg4;
+    s.callLocIdx = 845; s.pc = 1; return s.tmp_0;
+  case 1:
+    r0 = s.retval;
+    s.tmp_0 = r0 = s.arg0;
+    r0 = pxsim.BufferMethods.getNumber(s.arg1, 4, 0);
+    s.tmp_1 = r0;
+    r0 = (s.tmp_0).fields["_width"] = (s.tmp_1);
+    s.tmp_0 = r0 = s.arg0;
+    r0 = pxsim.BufferMethods.getNumber(s.arg1, 4, 2);
+    s.tmp_1 = r0;
+    r0 = (s.tmp_0).fields["_height"] = (s.tmp_1);
+    r0 = undefined;
+    return leave(s, r0)
+  default: oops()
+} } }
+tiles_TileMapData_constructor__P77854.info = {"start":6593,"length":358,"line":212,"column":8,"endLine":220,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"inline","argumentNames":["this","data","layers","tileset","scale"]}
+
+function tiles_TileMapData_constructor__P77854_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: tiles_TileMapData_constructor__P77854, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
+  tmp_0: undefined,
+  tmp_1: undefined,
+  arg0: undefined,
+  arg1: undefined,
+  arg2: undefined,
+  arg3: undefined,
+  arg4: undefined,
+} }
+
+
+
+
+function tiles_TileMapData_scale__P77858(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.arg1 = (s.lambdaArgs[1]);
+      s.lambdaArgs = null;
+    }
+    r0 = s.arg0;
+    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
+    r0 = (s.arg0).fields["_scale"] = (s.arg1);
+    s.tmp_0 = r0 = s.arg0;
+    r0 = pxsim_Array__mk();
+    s.tmp_1 = r0;
+    r0 = (s.tmp_0).fields["cachedTileView"] = (s.tmp_1);
+    r0 = undefined;
+    return leave(s, r0)
+  default: oops()
+} } }
+tiles_TileMapData_scale__P77858.info = {"start":7185,"length":102,"line":234,"column":8,"endLine":237,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"scale","argumentNames":["this","s"]}
+
+function tiles_TileMapData_scale__P77858_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: tiles_TileMapData_scale__P77858, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
+  tmp_0: undefined,
+  tmp_1: undefined,
+  arg0: undefined,
+  arg1: undefined,
+} }
+
+
+
+
+function tiles_TileMapData_scale__P77857(s) {
+let r0 = s.r0, step = s.pc;
+s.pc = -1;
+
+
+while (true) {
+if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
+switch (step) {
+  case 0:
+
+    if (s.lambdaArgs) {
+      s.arg0 = (s.lambdaArgs[0]);
+      s.lambdaArgs = null;
+    }
+    r0 = s.arg0;
+    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
+    r0 = s.arg0.fields["_scale"];
+    return leaveAccessor(s, r0)
+  default: oops()
+} } }
+tiles_TileMapData_scale__P77857.info = {"start":7109,"length":66,"line":230,"column":8,"endLine":232,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"scale","argumentNames":["this"]}
+tiles_TileMapData_scale__P77857.isGetter = true;
+
+function tiles_TileMapData_scale__P77857_mk(s) {
+    checkStack(s.depth);
+    return {
+        parent: s, fn: tiles_TileMapData_scale__P77857, depth: s.depth + 1,
+        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   arg0: undefined,
 } }
 
@@ -31475,40 +31853,6 @@ function tiles_TileMapData_getTileImage__P77862_mk(s) {
 
 
 
-function tiles_TileMapData_scale__P77857(s) {
-let r0 = s.r0, step = s.pc;
-s.pc = -1;
-
-
-while (true) {
-if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
-switch (step) {
-  case 0:
-
-    if (s.lambdaArgs) {
-      s.arg0 = (s.lambdaArgs[0]);
-      s.lambdaArgs = null;
-    }
-    r0 = s.arg0;
-    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
-    r0 = s.arg0.fields["_scale"];
-    return leaveAccessor(s, r0)
-  default: oops()
-} } }
-tiles_TileMapData_scale__P77857.info = {"start":7109,"length":66,"line":230,"column":8,"endLine":232,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"scale","argumentNames":["this"]}
-tiles_TileMapData_scale__P77857.isGetter = true;
-
-function tiles_TileMapData_scale__P77857_mk(s) {
-    checkStack(s.depth);
-    return {
-        parent: s, fn: tiles_TileMapData_scale__P77857, depth: s.depth + 1,
-        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
-  arg0: undefined,
-} }
-
-
-
-
 function tiles_TileMap_getTileIndex__P77886(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
@@ -37674,108 +38018,6 @@ function ArcadePhysicsEngine_addSprite__P77670_mk(s) {
 
 
 
-function tiles_TileMapData_constructor__P77854(s) {
-let r0 = s.r0, step = s.pc;
-s.pc = -1;
-
-
-while (true) {
-if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
-switch (step) {
-  case 0:
-
-    if (s.lambdaArgs) {
-      s.arg0 = (s.lambdaArgs[0]);
-      s.arg1 = (s.lambdaArgs[1]);
-      s.arg2 = (s.lambdaArgs[2]);
-      s.arg3 = (s.lambdaArgs[3]);
-      s.arg4 = (s.lambdaArgs[4]);
-      s.lambdaArgs = null;
-    }
-    r0 = s.arg0;
-    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
-    r0 = (s.arg0).fields["data"] = (s.arg1);
-    r0 = (s.arg0).fields["layers"] = (s.arg2);
-    r0 = (s.arg0).fields["tileset"] = (s.arg3);
-    s.tmp_0 = tiles_TileMapData_scale__P77858_mk(s);
-    s.tmp_0.arg0 = s.arg0;
-    s.tmp_0.arg1 = s.arg4;
-    s.callLocIdx = 845; s.pc = 1; return s.tmp_0;
-  case 1:
-    r0 = s.retval;
-    s.tmp_0 = r0 = s.arg0;
-    r0 = pxsim.BufferMethods.getNumber(s.arg1, 4, 0);
-    s.tmp_1 = r0;
-    r0 = (s.tmp_0).fields["_width"] = (s.tmp_1);
-    s.tmp_0 = r0 = s.arg0;
-    r0 = pxsim.BufferMethods.getNumber(s.arg1, 4, 2);
-    s.tmp_1 = r0;
-    r0 = (s.tmp_0).fields["_height"] = (s.tmp_1);
-    r0 = undefined;
-    return leave(s, r0)
-  default: oops()
-} } }
-tiles_TileMapData_constructor__P77854.info = {"start":6593,"length":358,"line":212,"column":8,"endLine":220,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"inline","argumentNames":["this","data","layers","tileset","scale"]}
-
-function tiles_TileMapData_constructor__P77854_mk(s) {
-    checkStack(s.depth);
-    return {
-        parent: s, fn: tiles_TileMapData_constructor__P77854, depth: s.depth + 1,
-        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
-  tmp_0: undefined,
-  tmp_1: undefined,
-  arg0: undefined,
-  arg1: undefined,
-  arg2: undefined,
-  arg3: undefined,
-  arg4: undefined,
-} }
-
-
-
-
-function tiles_TileMapData_scale__P77858(s) {
-let r0 = s.r0, step = s.pc;
-s.pc = -1;
-
-
-while (true) {
-if (yieldSteps-- < 0 && maybeYield(s, step, r0) || runtime !== pxsim.runtime) return null;
-switch (step) {
-  case 0:
-
-    if (s.lambdaArgs) {
-      s.arg0 = (s.lambdaArgs[0]);
-      s.arg1 = (s.lambdaArgs[1]);
-      s.lambdaArgs = null;
-    }
-    r0 = s.arg0;
-    if (!checkSubtype(r0, tiles_TileMapData__C77853_VT)) failedCast(r0, tiles_TileMapData__C77853_VT);
-    r0 = (s.arg0).fields["_scale"] = (s.arg1);
-    s.tmp_0 = r0 = s.arg0;
-    r0 = pxsim_Array__mk();
-    s.tmp_1 = r0;
-    r0 = (s.tmp_0).fields["cachedTileView"] = (s.tmp_1);
-    r0 = undefined;
-    return leave(s, r0)
-  default: oops()
-} } }
-tiles_TileMapData_scale__P77858.info = {"start":7185,"length":102,"line":234,"column":8,"endLine":237,"endColumn":9,"fileName":"pxt_modules/game/tilemap.ts","functionName":"scale","argumentNames":["this","s"]}
-
-function tiles_TileMapData_scale__P77858_mk(s) {
-    checkStack(s.depth);
-    return {
-        parent: s, fn: tiles_TileMapData_scale__P77858, depth: s.depth + 1,
-        pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
-  tmp_0: undefined,
-  tmp_1: undefined,
-  arg0: undefined,
-  arg1: undefined,
-} }
-
-
-
-
 function tiles_TileMap_constructor__P77873(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
@@ -42379,11 +42621,44 @@ const Math_FastRandom__C78210_VT = mkVTable({
     "pickRandom": Math_FastRandom_pickRandom__P78215,
   },
 });
+const tiles_TileMapData__C77853_VT = mkVTable({
+  name: "TileMapData",
+  numFields: 7,
+  classNo: 21,
+  lastSubtypeNo: 21,
+  maxBgInstances: null,
+  methods: {
+  },
+  iface: {
+    "data": null,
+    "set/data": null,
+    "layers": null,
+    "set/layers": null,
+    "tileset": null,
+    "set/tileset": null,
+    "cachedTileView": null,
+    "set/cachedTileView": null,
+    "_scale": null,
+    "set/_scale": null,
+    "_width": null,
+    "set/_width": null,
+    "_height": null,
+    "set/_height": null,
+    "width": tiles_TileMapData_width__P77855,
+    "height": tiles_TileMapData_height__P77856,
+    "scale": tiles_TileMapData_scale__P77857,
+    "set/scale": tiles_TileMapData_scale__P77858,
+    "getTile": tiles_TileMapData_getTile__P77859,
+    "getTileImage": tiles_TileMapData_getTileImage__P77862,
+    "isWall": tiles_TileMapData_isWall__P77864,
+    "isOutsideMap": tiles_TileMapData_isOutsideMap__P77865,
+  },
+});
 const scene_Scene__C77979_VT = mkVTable({
   name: "Scene",
   numFields: 25,
-  classNo: 21,
-  lastSubtypeNo: 21,
+  classNo: 22,
+  lastSubtypeNo: 22,
   maxBgInstances: null,
   methods: {
   },
@@ -42448,8 +42723,8 @@ const scene_Scene__C77979_VT = mkVTable({
 const control_EventContext__C75487_VT = mkVTable({
   name: "EventContext",
   numFields: 10,
-  classNo: 22,
-  lastSubtypeNo: 22,
+  classNo: 23,
+  lastSubtypeNo: 23,
   maxBgInstances: null,
   methods: {
   },
@@ -42486,8 +42761,8 @@ const control_EventContext__C75487_VT = mkVTable({
 const PhysicsEngine__C77645_VT = mkVTable({
   name: "PhysicsEngine",
   numFields: 0,
-  classNo: 23,
-  lastSubtypeNo: 24,
+  classNo: 24,
+  lastSubtypeNo: 25,
   maxBgInstances: null,
   methods: {
     "addSprite": PhysicsEngine_addSprite__P77647,
@@ -42507,8 +42782,8 @@ const PhysicsEngine__C77645_VT = mkVTable({
 const scene_Camera__C77917_VT = mkVTable({
   name: "Camera",
   numFields: 10,
-  classNo: 25,
-  lastSubtypeNo: 25,
+  classNo: 26,
+  lastSubtypeNo: 26,
   maxBgInstances: null,
   methods: {
   },
@@ -42548,8 +42823,8 @@ const scene_Camera__C77917_VT = mkVTable({
 const control_EventHandler__C79612_VT = mkVTable({
   name: "EventHandler",
   numFields: 4,
-  classNo: 26,
-  lastSubtypeNo: 26,
+  classNo: 27,
+  lastSubtypeNo: 27,
   maxBgInstances: null,
   methods: {
   },
@@ -42569,8 +42844,8 @@ const control_EventHandler__C79612_VT = mkVTable({
 const scene_Background__C77803_VT = mkVTable({
   name: "Background",
   numFields: 4,
-  classNo: 27,
-  lastSubtypeNo: 27,
+  classNo: 28,
+  lastSubtypeNo: 28,
   maxBgInstances: null,
   methods: {
   },
@@ -42589,8 +42864,8 @@ const scene_Background__C77803_VT = mkVTable({
 const scene_BackgroundLayer__C77813_VT = mkVTable({
   name: "BackgroundLayer",
   numFields: 6,
-  classNo: 28,
-  lastSubtypeNo: 28,
+  classNo: 29,
+  lastSubtypeNo: 29,
   maxBgInstances: null,
   methods: {
   },
@@ -42613,8 +42888,8 @@ const scene_BackgroundLayer__C77813_VT = mkVTable({
 const sprites_BaseSprite__C77201_VT = mkVTable({
   name: "BaseSprite",
   numFields: 2,
-  classNo: 29,
-  lastSubtypeNo: 32,
+  classNo: 30,
+  lastSubtypeNo: 33,
   maxBgInstances: null,
   methods: {
     "__visible": sprites_BaseSprite___visible__P77204,
@@ -42638,8 +42913,8 @@ const sprites_BaseSprite__C77201_VT = mkVTable({
 const Sprite__C77467_VT = mkVTable({
   name: "Sprite",
   numFields: 32,
-  classNo: 30,
-  lastSubtypeNo: 30,
+  classNo: 31,
+  lastSubtypeNo: 31,
   maxBgInstances: null,
   methods: {
     "__visible": Sprite___visible__P77528,
@@ -42779,8 +43054,8 @@ const Sprite__C77467_VT = mkVTable({
 const tiles_TileMap__C77871_VT = mkVTable({
   name: "TileMap",
   numFields: 5,
-  classNo: 33,
-  lastSubtypeNo: 33,
+  classNo: 34,
+  lastSubtypeNo: 34,
   maxBgInstances: null,
   methods: {
   },
@@ -42811,39 +43086,6 @@ const tiles_TileMap__C77871_VT = mkVTable({
     "getObstacle": tiles_TileMap_getObstacle__P77893,
     "isOnWall": tiles_TileMap_isOnWall__P77894,
     "getTileImage": tiles_TileMap_getTileImage__P77895,
-  },
-});
-const tiles_TileMapData__C77853_VT = mkVTable({
-  name: "TileMapData",
-  numFields: 7,
-  classNo: 34,
-  lastSubtypeNo: 34,
-  maxBgInstances: null,
-  methods: {
-  },
-  iface: {
-    "data": null,
-    "set/data": null,
-    "layers": null,
-    "set/layers": null,
-    "tileset": null,
-    "set/tileset": null,
-    "cachedTileView": null,
-    "set/cachedTileView": null,
-    "_scale": null,
-    "set/_scale": null,
-    "_width": null,
-    "set/_width": null,
-    "_height": null,
-    "set/_height": null,
-    "width": tiles_TileMapData_width__P77855,
-    "height": tiles_TileMapData_height__P77856,
-    "scale": tiles_TileMapData_scale__P77857,
-    "set/scale": tiles_TileMapData_scale__P77858,
-    "getTile": tiles_TileMapData_getTile__P77859,
-    "getTileImage": tiles_TileMapData_getTileImage__P77862,
-    "isWall": tiles_TileMapData_isWall__P77864,
-    "isOutsideMap": tiles_TileMapData_isOutsideMap__P77865,
   },
 });
 const control_FrameCallback__C75484_VT = mkVTable({
@@ -42887,8 +43129,8 @@ const control_PollEvent__C79591_VT = mkVTable({
 const ArcadePhysicsEngine__C77661_VT = mkVTable({
   name: "ArcadePhysicsEngine",
   numFields: 6,
-  classNo: 24,
-  lastSubtypeNo: 24,
+  classNo: 25,
+  lastSubtypeNo: 25,
   maxBgInstances: null,
   methods: {
     "addSprite": ArcadePhysicsEngine_addSprite__P77670,
@@ -43132,8 +43374,8 @@ const game_Hitbox__C77315_VT = mkVTable({
 const particles_ParticleSource__C78302_VT = mkVTable({
   name: "ParticleSource",
   numFields: 13,
-  classNo: 31,
-  lastSubtypeNo: 31,
+  classNo: 32,
+  lastSubtypeNo: 32,
   maxBgInstances: null,
   methods: {
     "__visible": sprites_BaseSprite___visible__P77204,
@@ -43212,8 +43454,8 @@ const sprites_SpriteSet__C77597_VT = mkVTable({
 const scene_Renderable__C77936_VT = mkVTable({
   name: "Renderable",
   numFields: 4,
-  classNo: 32,
-  lastSubtypeNo: 32,
+  classNo: 33,
+  lastSubtypeNo: 33,
   maxBgInstances: null,
   methods: {
     "__visible": scene_Renderable___visible__P77938,
@@ -43628,7 +43870,7 @@ const sprites_BaseSpriteSayRenderer__C77366_VT = mkVTable({
   },
 });
 
-const breakpoints = setupDebugger(1, [])
+const breakpoints = setupDebugger(1, ["transparency16___93921","tile1___93916"])
 
-return _main___P93846
+return _main___P94004
 })
